@@ -1,5 +1,10 @@
 # vue-image-resizer
 
+### What does it do?
+```
+It drastically reduces the size of the photos by shrinking their resolution.
+```
+
 ## Project setup
 ```
 npm install
@@ -10,10 +15,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
