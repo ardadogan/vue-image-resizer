@@ -1,4 +1,4 @@
-# vue-image-resizer
+# Vuejs Image Resizer
 
 ### What does it do?
 ```
